@@ -1,0 +1,19 @@
+.mat-toolbar{
+    background-color: aqua;
+}
+
+.mat-icon{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.mat-sidenav{
+    height: 90vh;
+    width: 200px;
+    background-color: blueviolet;
+}
+
+.home{
+    display: flex;
+    
+}

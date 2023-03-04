@@ -1,0 +1,16 @@
+
+.mat-typography{
+    background-color:  #24bbeb ;
+}
+
+img{
+    width: 100%;
+    height: 80vh;
+    position: relative;
+}
+
+button{
+    position: relative;
+    bottom: 200px;
+}
+
